@@ -76,7 +76,7 @@ fun Home(){
             Text(
                 text = "Realizar sorteio",
                 color = Color.White,
-                fontSize = 18.sp
+                fontSize = 19.sp
             )
         }
 
